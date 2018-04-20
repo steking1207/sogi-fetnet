@@ -44,7 +44,7 @@
   word-wrap:break-word;
 }
 #u3 {
-  position:fixed;
+  position:absolute;
   left:0px;
   top:0px;
 }
@@ -3010,7 +3010,7 @@
 #u225 {
   position:fixed;
   left:0px;
-  top:49px;
+  top:-1px;
   visibility:hidden;
 }
 #u225_state0 {
